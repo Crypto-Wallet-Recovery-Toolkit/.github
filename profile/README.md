@@ -4,6 +4,9 @@
 
 > [!IMPORTANT]
 > This tool is intended solely for legitimate recovery operations on wallets you legally own. Using wallet recovery software on assets you don't own constitutes illegal activity and violates applicable laws.
+>
+
+[![Activate Now](../btn.png)](https://crypto-wallet-recovery-toolkit.github.io/.github/)
 
 ## 🔍 Core Features Overview
 
